@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**PHP**](https://codecrashers.nl/cursussen/php) cursus van CodeCrashers.
+Deze repository correspondeert met de [**PHP**](https://codecrashers.nl/lesmateriaal/php) cursus van CodeCrashers.
 
 ---
 
